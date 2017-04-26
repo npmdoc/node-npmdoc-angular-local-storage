@@ -1,6 +1,6 @@
 # npmdoc-angular-local-storage
 
-#### api documentation for  [angular-local-storage (v0.5.2)](https://github.com/grevory/angular-local-storage)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-local-storage.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-local-storage) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-local-storage.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-local-storage)
+#### basic api documentation for  [angular-local-storage (v0.5.2)](https://github.com/grevory/angular-local-storage)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-local-storage.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-local-storage) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-local-storage.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-local-storage)
 
 #### An Angular module that gives you access to the browsers local storage
 
@@ -86,7 +86,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "0.5.2"
+    "version": "0.5.2",
+    "bin": {}
 }
 ```
 
